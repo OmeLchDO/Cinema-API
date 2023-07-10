@@ -5,7 +5,7 @@ API services for cinema management written on DRF
 ## Installing using GitHub and create database
 
 - git clone https://github.com/OmeLchDO/Cinema-API
-- cd Dockerize-DRF-cinema
+- cd Cinema-API
 - python -m venv venv
 - venv/Scripts/activate (for Windows)
   or source venv/bin/activate (for MacOS, Linux)
